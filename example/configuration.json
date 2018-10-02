@@ -1,0 +1,17 @@
+{
+  "types": {
+    "categories": [
+      "array",
+      "uint32"
+    ]
+  },
+  "ip_version": 6,
+  "record_size": 24,
+  "database_type": "IP-Data",
+  "languages": [
+    "en"
+  ],
+  "description": {
+    "en": "database"
+  }
+}

@@ -2,6 +2,9 @@
 
 MaxMind::DB::Writer - Create MaxMind DB database files
 
+# Running writer:
+docker run -v /data/:/data/ -t writer:latest /data/configuration.json /data/data.json /data/output.mmdb
+
 # VERSION
 
 version 0.300003
